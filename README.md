@@ -8,4 +8,4 @@ I plan to use the following stuff:
 * PHPUnit
 * Flight
 * Monolog
-* Some kind of DB-Layer (donno exactly. Doctrine seems to big, but we will see)
+* Some kind of DB-Layer (donno exactly. Doctrine seems too big, but we will see)
